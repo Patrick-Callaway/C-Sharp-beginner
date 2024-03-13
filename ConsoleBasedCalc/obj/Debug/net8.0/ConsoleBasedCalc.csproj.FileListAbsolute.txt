@@ -1,0 +1,15 @@
+C:\Users\Patrick\C-Sharp-beginner\C-Sharp-beginner\ConsoleBasedCalc\bin\Debug\net8.0\ConsoleBasedCalc.exe
+C:\Users\Patrick\C-Sharp-beginner\C-Sharp-beginner\ConsoleBasedCalc\bin\Debug\net8.0\ConsoleBasedCalc.deps.json
+C:\Users\Patrick\C-Sharp-beginner\C-Sharp-beginner\ConsoleBasedCalc\bin\Debug\net8.0\ConsoleBasedCalc.runtimeconfig.json
+C:\Users\Patrick\C-Sharp-beginner\C-Sharp-beginner\ConsoleBasedCalc\bin\Debug\net8.0\ConsoleBasedCalc.dll
+C:\Users\Patrick\C-Sharp-beginner\C-Sharp-beginner\ConsoleBasedCalc\bin\Debug\net8.0\ConsoleBasedCalc.pdb
+C:\Users\Patrick\C-Sharp-beginner\C-Sharp-beginner\ConsoleBasedCalc\obj\Debug\net8.0\ConsoleBasedCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\C-Sharp-beginner\C-Sharp-beginner\ConsoleBasedCalc\obj\Debug\net8.0\ConsoleBasedCalc.AssemblyInfoInputs.cache
+C:\Users\Patrick\C-Sharp-beginner\C-Sharp-beginner\ConsoleBasedCalc\obj\Debug\net8.0\ConsoleBasedCalc.AssemblyInfo.cs
+C:\Users\Patrick\C-Sharp-beginner\C-Sharp-beginner\ConsoleBasedCalc\obj\Debug\net8.0\ConsoleBasedCalc.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\C-Sharp-beginner\C-Sharp-beginner\ConsoleBasedCalc\obj\Debug\net8.0\ConsoleBasedCalc.sourcelink.json
+C:\Users\Patrick\C-Sharp-beginner\C-Sharp-beginner\ConsoleBasedCalc\obj\Debug\net8.0\ConsoleBasedCalc.dll
+C:\Users\Patrick\C-Sharp-beginner\C-Sharp-beginner\ConsoleBasedCalc\obj\Debug\net8.0\refint\ConsoleBasedCalc.dll
+C:\Users\Patrick\C-Sharp-beginner\C-Sharp-beginner\ConsoleBasedCalc\obj\Debug\net8.0\ConsoleBasedCalc.pdb
+C:\Users\Patrick\C-Sharp-beginner\C-Sharp-beginner\ConsoleBasedCalc\obj\Debug\net8.0\ConsoleBasedCalc.genruntimeconfig.cache
+C:\Users\Patrick\C-Sharp-beginner\C-Sharp-beginner\ConsoleBasedCalc\obj\Debug\net8.0\ref\ConsoleBasedCalc.dll
