@@ -10,5 +10,7 @@
 
         Console.WriteLine("Please enter your second number!");
         var num2 = Console.ReadLine();
+        Console.WriteLine("Please select and operation: Addition, Subtraction, divison, multiplication.");
+        var oper = Console.ReadLine();
     }
 }
